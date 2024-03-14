@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https://tonstellar.org"
+  from = "https://ton-stellar.com"
   to = "https://ton.org/"
   status = 301
   force = true
