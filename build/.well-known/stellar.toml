@@ -1,31 +1,29 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"",
+"GDVXGSOY55AFT5Q36UDSAAM6ZF6AD3ESU6AULVQ6J5JMYBR5TQC5MXZ5",
 ]
 
 [DOCUMENTATION]
-ORG_NAME=""
-ORG_URL=""
-ORG_DESCRIPTION=""
+ORG_NAME="TonCoin"
+ORG_URL="ton-stellar.com"
+ORG_DESCRIPTION="Toncoin is TON's native cryptocurrency. It is used for network operations, transactions, games or collectibles built on TON."
 ORG_LOGO=""
-ORG_PHYSICAL_ADDRESS=""
-ORG_OFFICIAL_EMAIL=""
 
 [[PRINCIPALS]]
-name=""
+name="Slava Yakimenko"
 
 
 [[CURRENCIES]]
-code=""
+code="TON"
 status="live"
 display_decimals=2
-issuer=""
+issuer="GDVXGSOY55AFT5Q36UDSAAM6ZF6AD3ESU6AULVQ6J5JMYBR5TQC5MXZ5"
 anchor_asset_type="crypto"
-name=""
-desc=""
+name="TonCoin"
+desc="Unlocking freedom with Decentralized Finance"
 image=""
-fixed_number=
-max_number=
+fixed_number=2000000
+max_number=2000000
 is_unlimited=false
-# was issued using the open and inclusive Stellar blockchain network.
+# TonCoin was issued using the open and inclusive Stellar blockchain network.
