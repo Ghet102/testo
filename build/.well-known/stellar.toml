@@ -6,7 +6,7 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="TonCoin"
-ORG_URL="ton-stellar.com"
+ORG_URL="https://ton-stellar.com"
 ORG_DESCRIPTION="Toncoin is TON's native cryptocurrency. It is used for network operations, transactions, games or collectibles built on TON."
 ORG_LOGO="https://i.ibb.co/Tt8vbxg/TonCoin.png"
 
