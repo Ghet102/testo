@@ -2,7 +2,9 @@ VERSION="2.2.1"
 
 ACCOUNTS=[
 "GDVXGSOY55AFT5Q36UDSAAM6ZF6AD3ESU6AULVQ6J5JMYBR5TQC5MXZ5",
-"GAE36C6A4JV3NMRU3TZPGZ4OATNED4QZIYQ7CT5ERT4Y2PG3EOP4BPUI"
+"GAE36C6A4JV3NMRU3TZPGZ4OATNED4QZIYQ7CT5ERT4Y2PG3EOP4BPUI",
+"GB4UY34WVAU775LPRHSM6KRCMDOOICBAUKTS43T35HFGX6HV6UZ5PCUT"
+
 ]
 
 [DOCUMENTATION]
@@ -42,3 +44,18 @@ fixed_number=10000000
 max_number=10000000
 is_unlimited=false
 # TonX was issued using the open and inclusive Stellar blockchain network.
+
+[[CURRENCIES]]
+code="NOTCOIN"
+status="live"
+display_decimals=2
+issuer="GB4UY34WVAU775LPRHSM6KRCMDOOICBAUKTS43T35HFGX6HV6UZ5PCUT"
+anchor_asset_type="crypto"
+name="NotCoin"
+desc="Notcoin is a Telegram-based buy-to-earn program where users gain digital tokens by buying and holding NotCoins"
+image="https://i.ibb.co/7CcbzbK/notcoin.png"
+fixed_number=9000000000
+max_number=9000000000
+is_unlimited=false
+# NotCoin was issued using the open and inclusive Stellar blockchain network.
+
